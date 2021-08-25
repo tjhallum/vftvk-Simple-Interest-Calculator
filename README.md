@@ -1,10 +1,10 @@
 # Final Project
-## IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
+### IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
 
 🔗 Course Link: https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript/home/welcome  
 🔗 Online webpage: https://tjhallum.github.io/vftvk-Simple-Interest-Calculator/
 
-This app titled Simple Interest Calculator, will compute the interest one can earn given the amount you wish to save, the number of years you can keep it invested and the interest rate the bank would pay you.
+This little JavaScript app calculates the interest that can be earned considering the amount to be saved, the duration of the investment (years), and the interest rate.
 
 ### Learning Objectives
 * Explain the roles of Front-end, back-end, and full stack developers in developing Cloud Applications.
